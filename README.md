@@ -1,3 +1,6 @@
+> **Collaborative project:** Developed in collaboration with [iamashkan](https://github.com/iamashkan). This repository is a fork of [iamashkan/defect-inspection-digital-twin](https://github.com/iamashkan/defect-inspection-digital-twin).
+> [Browse Amin Zoroufi's projects by role](https://github.com/aminzoroufi/aminzoroufi).
+
 # Defect Inspection Digital Twin
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)](...)
